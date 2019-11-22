@@ -26,6 +26,3 @@ export default class TourList extends Component {
     );
   }
 }
-
-// React-cityTours
-// git remote add origin https://github.com/umangSth/React-cityTours.git
